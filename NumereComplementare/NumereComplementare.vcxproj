@@ -153,6 +153,9 @@
     <None Include="numere.in" />
     <None Include="numere.out" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NumereComplementare.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
