@@ -20,13 +20,13 @@ Fisierul "numere.out" va contine pe prima linie cele doua numere cerute(3 puncte
 Restrictii si precizari: - Toate numerele sunt numere naturale din intervalul [1, 10 pow 18]; - In fisierul de intrare exista cel putin 
 un numar complementar cu nr; - Exista cel mult 10000 de numere in fisier.
 
-Exemplu:
+Exemplu:</br>
 
-numere.in 
-123123123 
+numere.in </br>
+123123123 </br>
 346581 456789048 456 10 9 456789000
-
-numere.out 
-2 456789048
-
+</br>
+numere.out </br>
+2 456789048</br>
+</br>
 Explicatie: exista doua numere complementare cu 123123123: 456789048 si 456789000.
