@@ -22,8 +22,11 @@ un numar complementar cu nr; - Exista cel mult 10000 de numere in fisier.
 
 Exemplu:
 
-numere.in 123123123 346581 456789048 456 10 9 456789000
+numere.in 
+123123123 
+346581 456789048 456 10 9 456789000
 
-numere.out 2 456789048
+numere.out 
+2 456789048
 
 Explicatie: exista doua numere complementare cu 123123123: 456789048 si 456789000.
